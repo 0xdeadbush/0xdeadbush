@@ -1,16 +1,18 @@
-### Hi there 👋
+### Introduce myself
+Hello 👋 !
 
-<!--
-**0xdeadbush/0xdeadbush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 0xdeadbush 🍂, I'm a developer 💻 who develop project in Minecraft ⚔️ !
 
-Here are some ideas to get you started:
+### About my programming skill
+- Years of starting programming: 2011
+- My first "languages" : HTML, CSS, JS
+- My main languages :
+  - Java: 4 years of experience
+  - C#: 2 years of experience
+  - NodeJS: 5 years of experience
+  - Python: 8 years of experience
+  - Javascript: 11 years of experience
+  - Typescript: 1 year of experience
+Games where everything begin: Habbo
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
